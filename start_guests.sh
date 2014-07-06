@@ -1,7 +1,7 @@
 #!/bin/sh
 
-#kernel="zImage.merge1000ns"
-kernel="zImage"
+#kernel="zImage.trace"
+kernel="zImage.trace2"
 
 for vmid in 0 1 2 3 4 5
 do
