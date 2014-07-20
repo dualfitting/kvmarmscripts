@@ -1,7 +1,7 @@
 #!/bin/sh
 
-#kernel="zImage.trace"
-kernel="zImage.trace2"
+kernel="zImage"
+#kernel="images/zImage.8ms"
 
 for vmid in 0 1 2 3 4 5
 do
